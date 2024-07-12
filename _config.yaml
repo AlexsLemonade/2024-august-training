@@ -1,0 +1,54 @@
+title: Data Lab Training
+training_title: MONTH-TOPIC
+# The name of the repository (e.g., 2020-may-training)
+# We use training-specific-template to help with development
+repository: training-specific-template
+# Full URL to the repository
+# Again, using training-specific-template to aid in development
+repository_url: https://github.com/AlexsLemonade/training-specific-template
+start_date: YYYY-MM-DD
+end_date: YYYY-MM-DD
+# Specific release in AlexsLemonade/training-modules
+# We use master to make development easier
+release_tag: master
+
+#### Workshop information ####
+workshop_type: WORKSHOP    # Update this value to either: "remote" or "in-person"
+workshop_content: WORKSHOP # Update this value to one of: "intro-r", "intro-bulk", "intro-single-cell", or "advanced-single-cell"
+
+#### Instructor names ####
+# This array should be filled with a list of team members leading a given workshop
+instructors:
+  - Ally Hawkins
+  - Jen O'Malley
+  - Josh Shapiro
+  - Stephanie Spielman
+
+#### Docker information #####
+# The Docker user will almost always be ccdl, which is why this is here
+docker_user: ccdl
+docker_repo: training_rstudio
+docker_tag: edge
+# These are for loading Docker images from a file; only relevant for in-person
+docker_targz: ccdl_docker_image.tar.gz
+docker_tar: ccdl_docker_image.tar
+# The image ID and size can be obtained by running `docker images` once you have a copy of the correct image for the training
+docker_image_id: IMAGEID
+docker_size: SIZE
+
+# Theme and theme options
+theme: minima
+# Pages to appear in site header.
+header_home:
+  workshop/HOME.md
+header_pages:
+  - workshop/SCHEDULE.md
+  - workshop/workshop-logistics.md
+  - workshop/workshop-materials.md
+  - workshop/workshop-resources.md
+  - workshop/working-with-your-own-data.md
+  - workshop/posting-errors-guidelines.md
+author: Childhood Cancer Data Lab
+email: training@ccdatalab.org
+twitter_username: CancerDataLab
+github_username:  AlexsLemonade

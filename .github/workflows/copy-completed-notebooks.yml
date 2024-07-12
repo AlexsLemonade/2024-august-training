@@ -1,0 +1,110 @@
+name: Copy completed HTML notebooks to training website repository
+# Copy completed HTML notebooks from the training-modules repo to this repo
+# This action will open a pull request containing completed HTML notebooks
+
+# This is a manually triggered workflow that takes two inputs:
+#  # The name of the workshop being taught
+#  # The training-modules repo tag to copy notebooks from
+on:
+  workflow_dispatch:
+    inputs:
+      training-module:
+        type: choice
+        description: Use the dropdown menu to select which training workshop module this website is being created for.
+        options:
+          - "Introduction to R and Tidyverse"
+          - "Introduction to single-cell RNA-seq"
+          - "Advanced single-cell RNA-seq"
+          - "Bulk RNA-seq"
+        required: true
+      training-modules-tag:
+        type: string
+        description: The `training-modules` repo tag to copy completed notebooks from, e.g. 2023-june
+        default: "master"
+        required: true
+
+jobs:
+  file-completed-notebooks-pr:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout training-modules repository
+        uses: actions/checkout@v3
+        with:
+          repository: AlexsLemonade/training-modules
+          ref: ${{ github.event.inputs.training-modules-tag }}
+          path: training-modules
+
+      - name: Checkout this repository
+        uses: actions/checkout@v3
+        with:
+          path: website
+
+      - name: Configure git
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+
+      - name: Copy HTML completed notebooks from training-modules
+        shell: bash
+        run: |
+          # The completed notebooks to copy will depend on which workshop module this is.
+          # For each module, the directory of notebooks to copy are:
+          #  Intro R: intro_to_R_tidyverse/
+          #  Intro scRNA-seq: intro_to_R_tidyverse/ and scRNA-seq/
+          #  Advanced scRNA-seq: advanced-scRNA-seq/
+          #  bulk RNA-seq: RNA-seq/
+
+          # Path to copy notebooks to
+          target_path=website/completed-notebooks
+
+          # Create array of directories from which notebooks should be copied
+          case "${{ github.event.inputs.training-module }}" in
+
+            "Introduction to R and Tidyverse")
+              modules=("intro-to-R-tidyverse")
+              ;;
+
+            "Introduction to single-cell RNA-seq")
+              modules=("intro-to-R-tidyverse" "scRNA-seq")
+              ;;
+
+            "Advanced single-cell RNA-seq")
+              modules=("scRNA-seq-advanced")
+              ;;
+
+            "Bulk RNA-seq")
+              modules=("intro-to-R-tidyverse", "RNA-seq")
+              ;;
+          esac
+
+          # Copy all completed notebooks from the given directories
+          for module in ${modules[@]}; do
+            mkdir -p ${target_path}/${module}
+            cp training-modules/${module}/[0-9]*.html ${target_path}/${module}
+          done
+
+      - name: Create PR with rendered notebooks
+        uses: peter-evans/create-pull-request@v5
+        id: cpr
+        with:
+          path: website # must be a RELATIVE path to _this_ repo
+          commit-message: Copy completed notebooks from training-modules@${{ github.event.inputs.training-modules-tag }}
+          signoff: false
+          branch: auto_copy_completed_notebooks
+          delete-branch: true
+          title: 'GHA: Automated transfer of completed notebooks'
+          body: |
+            ### Description:
+            This PR was auto-generated from github actions
+              - Copy completed notebooks for the "${{ github.event.inputs.training-module }}" module from the `training-modules` repository, tag `${{ github.event.inputs.training-modules-tag }}`
+          labels: |
+            automated
+          reviewers: $GITHUB_ACTOR
+
+
+      # Write out PR info
+      - name: Check outputs
+        run: |
+          echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+          echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"

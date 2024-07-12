@@ -1,0 +1,6 @@
+# jekyll built site
+_site
+.DS_Store
+Gemfile.lock
+
+.ruby-version
