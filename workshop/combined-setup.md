@@ -19,3 +19,5 @@ Please find instructions for your computer's operating system at the appropriate
   * Once you have been given your RStudio Server username and temporary password, follow [these instructions](../software-setup/rstudio-login.md) to log in to our RStudio server and change your password.
 * You will need to create a [GitHub](https://github.com) account if you do not already have one and configure the GitKraken application, installed in the step above.
   * [GitHub and GitKraken setup instructions](setup-instructions/github_gitkraken_setup_instructions.md)
+* If you do not already use a Password Manager (for example, [LastPass](https://www.lastpass.com) or [1Password](https://1password.com/)), we strongly recommend signing up and setting it up for general use.
+  * During this workshop, you will need to keep track of sensitive passwords, and using a robust password management system is the most secure way to do so.
