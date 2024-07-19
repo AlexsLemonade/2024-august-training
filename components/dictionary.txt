@@ -108,6 +108,7 @@ Jupyter
 KeyCastr
 Kimpton
 Korsunsky
+LastPass
 LeBus
 LGAT
 lient
