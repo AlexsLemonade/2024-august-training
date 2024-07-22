@@ -20,6 +20,7 @@ BBEdit
 Beaulieu
 Benchmarking
 bioinformatics
+BitWarden
 Bootcamp
 bp
 Bruning
@@ -108,7 +109,6 @@ Jupyter
 KeyCastr
 Kimpton
 Korsunsky
-LastPass
 LeBus
 LGAT
 lient
