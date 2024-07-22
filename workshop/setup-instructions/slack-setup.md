@@ -12,7 +12,7 @@ Download Slack from this link <https://slack.com/downloads>, which will automati
 
 ### Joining the Cancer Data Science Slack
 
-Join Cancer Data Science Slack by navigating to <http://ccdatalab.org/slack> in your browser (you will have also received an email invite to join this Slack workspace).
+Join the Cancer Data Science Slack by navigating to <http://ccdatalab.org/slack> in your browser (you will have also received an email invite to join this Slack workspace).
 If you have not created an account, follow the prompts to do so.
 _Please use your full name in your profile, and don't forget to set a unique password!_
 
