@@ -30,7 +30,7 @@ If you are interested in even more material, the [full list of swirl courses is 
 
 Here are some more resources for those of you who want to dive deeper. It is NOT mandatory to go through these for the workshop.
 
-+ [R for Data Science](https://r4ds.had.co.nz/)
++ [R for Data Science](https://r4ds.hadley.nz/)
 + [R Markdown](http://rmarkdown.rstudio.com)
 + [Tutorial on R, RStudio and R Markdown](https://ismayc.github.io/rbasics-book/)
 + [R Notebooks tutorial](https://bookdown.org/yihui/rmarkdown/)
