@@ -65,7 +65,7 @@ Minneapolis, MN 55414 in Room 105.
 |             | Exercise: Neuroblastoma cell line tximeta |
 |             | Exercise: Exploratory data analysis | 
 | 12:00 PM    | Lunch break |
-| 1:00 PM     | Git on the server and git init | 
+| 1:00 PM     | Set up Git on RStudio Server | 
 | 1:30 PM     | Differential expression analysis |
 | 2:45 PM     | Coffee break |
 | 3:00 PM     | Heatmaps and clustering |
@@ -86,4 +86,4 @@ Minneapolis, MN 55414 in Room 105.
 | 1:30 PM     | Questions and consultation time |
 |             | Exercises: Pathway analysis| 
 | 3:00 PM     | Participant presentations |
-| 4:00        | Adjourn   |
+| 4:00  PM      | Adjourn   |
