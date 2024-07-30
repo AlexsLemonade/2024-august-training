@@ -8,7 +8,7 @@ nav_title: Schedule
 Below is a preliminary schedule for the 2024 August Introduction to Bulk RNA-Seq and Reproducible Research Practices Workshop.
 This schedule is subject to minor changes and will be updated with additional materials before the workshop.
 
-The workshop will takes place from August 19-22, 2024 at the University of Minnesota.
+The workshop will takes place from August 19-22 at the University of Minnesota.
 We will meet each day at 717 Delaware Street SE,
 Minneapolis, MN 55414 in Room 105.
 
@@ -63,7 +63,7 @@ Minneapolis, MN 55414 in Room 105.
 | 10:45 AM    | Coffee break |
 | 11:00 AM    | RNA-Seq exploratory analysis |
 |             | Exercise: Neuroblastoma cell line tximeta |
-|             | Exercise: Exploratory data analysis) | 
+|             | Exercise: Exploratory data analysis | 
 | 12:00 PM    | Lunch break |
 | 1:00 PM     | Git on the server and git init | 
 | 1:30 PM     | Differential expression analysis |
