@@ -5,10 +5,10 @@ nav_title: Schedule
 
 <!--See an example from a past remote workshop here: https://github.com/AlexsLemonade/2023-may-training/blob/main/workshop/SCHEDULE.md -->
 <!--See an example from a past in-person workshop here: https://github.com/AlexsLemonade/2023-june-training/blob/main/workshop/SCHEDULE.md -->
-Below is a preliminary schedule for the 2024 August Introduction to Bulk RNA-Seq Reproducible Research Practices Workshop.
+Below is a preliminary schedule for the 2024 August Introduction to Bulk RNA-Seq and Reproducible Research Practices Workshop.
 This schedule is subject to minor changes and will be updated with additional materials before the workshop.
 
-This workshop will takes place from August 19-22, 2024 at the University of Minnesota.
+The workshop will takes place from August 19-22, 2024 at the University of Minnesota.
 We will meet each day at 717 Delaware Street SE,
 Minneapolis, MN 55414 in Room 105.
 
@@ -61,9 +61,9 @@ Minneapolis, MN 55414 in Room 105.
 | **Day 3**   | **2024-08-21 <br> Bulk RNA-Seq**  |
 | 8:30 AM     | Breakfast and coffee available |
 | 9:00 AM     | [RNA-Seq quantification (trim, filter, quant)](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/RNA-seq/01-qc_trim_quant.nb.html) |
-| 10:00 AM    | [RNA-Seq import with tximeta]((https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/RNA-seq/02-gastric_cancer_tximeta.nb.html)) |
+| 10:00 AM    | [RNA-Seq import with tximeta](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/RNA-seq/02-gastric_cancer_tximeta.nb.html) |
 | 10:45 AM    | Coffee break |
-| 11:00 AM    | [RNA-Seq exploratory analysis]((https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/RNA-seq/03-gastric_cancer_exploratory.nb.html)) |
+| 11:00 AM    | [RNA-Seq exploratory analysis](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/RNA-seq/03-gastric_cancer_exploratory.nb.html) |
 |             | [Exercise: Neuroblastoma cell line tximeta](https://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/RNA-seq/04-nb_cell_line_tximeta.nb.html) |
 |             | [Exercise: Exploratory data analysis](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/RNA-seq/exercise_01-exploratory_data_analysis.Rmd) | 
 | 12:00 PM    | Lunch break |
