@@ -14,8 +14,6 @@ Minneapolis, MN 55414 in Room 105.
 
 *Note: All times are CDT.*
 
-
-
 | Time        | Topic                                          | 
 |-------------|------------------------------------------------|
 | **Day 1**   | **2024-08-19 <br> Intro to R and the Tidyverse <br> Intro to Reproducible Research Practices**|
