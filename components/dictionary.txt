@@ -99,6 +99,7 @@ Homewood
 IAM
 IHG
 img
+init
 io
 irectory
 Irizarry
@@ -132,6 +133,7 @@ multifactor
 Muris
 musculus
 natively
+Neuroblastoma
 Nextflow
 nonconsensual
 Nüst
@@ -149,6 +151,7 @@ png
 PowerShell
 pre
 Protip
+quant
 README
 renv
 repo
@@ -194,6 +197,7 @@ transcriptomic
 transphobic
 TSV
 Tung
+tximeta 
 ual
 Uber
 uncheck
