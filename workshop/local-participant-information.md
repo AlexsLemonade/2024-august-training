@@ -22,9 +22,9 @@ You will be added to our `#2024-august-training` channel. 
 
 This is a hands on workshop!
 
-* **Be sure to review the [pre-workshop setup items (on the homepage)](https://alexslemonade.github.io/2024-august-training/)** for instructions on preparing your computer. 
+* **Be sure to review the [Setup Instructions (on the homepage)](https://alexslemonade.github.io/2024-august-training/#setup-instructions)** for instructions on preparing your computer. 
 * **We will hold pre-workshop office hours on Friday, August 16** from 2-3pm CDT (3-4pm EDT) on Slack. 
-Join us on the `#2024-august-training` channel for help getting setup and to ask any questions.
+Join us on the `#2024-august-training` channel for help getting set up and to ask any questions.
 
 We will provide breakfast, lunch, snacks, and beverages each day. 
 **Please [submit the meal form](https://docs.google.com/forms/d/e/1FAIpQLScSyz_zzW7O7CZn6zPtQPOwSmW-oASgzTTgz34v3YUcpmeEmQ/viewform)** to make us aware of any dietary restrictions and to RSVP for an (optional) group dinner at nearby Surly Brewing Co. on August 20! 
