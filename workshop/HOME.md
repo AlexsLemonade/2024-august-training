@@ -16,7 +16,6 @@ Dates: {{site.start_date}} through {{site.end_date}}
 
 * Please review the [Code of Conduct](../code-of-conduct.md).
 * If you are new to using R, we've [assembled some resources for getting starting with R](../additional-resources/R-resources.md#pre-workshop-prep-for-r-programming) that can optionally help prepare you for the workshop.
-* Please review the [Participant Information](local-participant-information.md) page for details about the workshop location and other logistics.
 
 ### Setup instructions
 
