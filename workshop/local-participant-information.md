@@ -12,10 +12,7 @@ If you have trouble finding the building or the room on the first day of trainin
 
 ## Pre-workshop Information
 
-**Please review and sign our waivers:**
-
-* [Training waiver](https://app.hellosign.com/s/2o2yghCj)
-* [Data use waiver](https://app.hellosign.com/s/7AZ7TWXe)
+**Please review and sign the [training waiver](https://app.hellosign.com/s/2o2yghCj).**
 
 **Here is the [link to join the Slack group](http://ccdatalab.org/slack)** that we will use for communication purposes and to stay in touch after the workshop! 
 You will be added to our `#2024-august-training` channel. 
