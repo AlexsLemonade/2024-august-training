@@ -34,8 +34,8 @@ We will provide breakfast, lunch, snacks, and beverages each day.
 
 If you are traveling to the workshop, the following hotels are located within 1 mile.
 
-* [Hilton Garden Inn Minneapolis University Area] (https://www.hilton.com/en/hotels/msputgi-hilton-garden-inn-minneapolis-university-area) 
-* [Hampton Inn & Suites Minneapolis University Area] (https://www.hilton.com/en/hotels/mspuahx-hampton-suites-minneapolis-university-area/)
+* [Hilton Garden Inn Minneapolis University Area](https://www.hilton.com/en/hotels/msputgi-hilton-garden-inn-minneapolis-university-area) 
+* [Hampton Inn & Suites Minneapolis University Area](https://www.hilton.com/en/hotels/mspuahx-hampton-suites-minneapolis-university-area/)
 * [Home2 Suites by Hilton Minneapolis University Area](https://www.hilton.com/en/hotels/msptcht-home2-suites-minneapolis-university-area/) 
 
 
