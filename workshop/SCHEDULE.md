@@ -49,7 +49,7 @@ Minneapolis, MN 55414 in Room 105.
 | 2:30 PM     | Managing packages and environments |
 | 3:00 PM     | Coffee break |
 | 3:15 PM     | Working with branches in Git |
-| 3:45 PM     | Introduction to Bulk RNA-Seq |
+| 3:45 PM     | Introduction to Bulk RNA-Seq <br> [Introduction to Bulk RNA-seq slides (PDF)](https://github.com/AlexsLemonade/2024-august-training/tree/main/slides/2024-08-20-Intro_to_bulk_RNAseq.pdf)|
 | 4:15 PM     | Questions and consultation time |
 | 5:00  PM    | Adjourn |
 | 5:30 PM     | Group dinner at Surly Brewing Co. <br> 520 Malcolm Ave SE, Minneapolis, MN 55414 |
