@@ -3,8 +3,6 @@ title: Workshop Schedule
 nav_title: Schedule
 ---
 
-<!--See an example from a past remote workshop here: https://github.com/AlexsLemonade/2023-may-training/blob/main/workshop/SCHEDULE.md -->
-<!--See an example from a past in-person workshop here: https://github.com/AlexsLemonade/2023-june-training/blob/main/workshop/SCHEDULE.md -->
 Below is a preliminary schedule for the 2024 August Introduction to Bulk RNA-Seq and Reproducible Research Practices Workshop.
 This schedule is subject to minor changes and will be updated with additional materials before the workshop.
 
@@ -19,7 +17,7 @@ Minneapolis, MN 55414 in Room 105.
 | **Day 1**   | **2024-08-19 <br> Intro to R and the Tidyverse <br> Intro to Reproducible Research Practices**|
 | 8:30 AM     | Arrive and check-in <br> Breakfast and coffee available |
 | 9:00 AM     | Welcome, introductions and getting started |
-| 10:00 AM    | Introduction to R and RStudio |
+| 10:00 AM    | Introduction to R and RStudio <br> [Intro to R and RStudio slides (PDF)](../slides/2024-08-19_intro-to-r-rstudio.pdf) |
 | 11:15 AM    | Coffee break |
 | 11:30 AM    | Introduction to `ggplot2` |
 | 12:30 PM    | Lunch break |
@@ -30,8 +28,8 @@ Minneapolis, MN 55414 in Room 105.
 |             | Exercise: Introduction to R |
 |             | Exercise: Introduction to the `tidyverse`, Part 1  |
 |             | Exercise: Introduction to the `tidyverse`, Part 2 |
-| 3:30  PM    | Introduction to reproducible research practices |
-| 4:00  PM    | Project organization <br> [Project Organization slides (PDF)](../slides/2024-08-19_project-organization.pdf) |
+| 3:30  PM    | Introduction to reproducible research practices <br> [Intro to reproducible research practices slides (PDF)](../slides/2024-08-19_why-reproducibility.pdf) |
+| 4:00  PM    | Project organization <br> [Project organization slides (PDF)](../slides/2024-08-19_project-organization.pdf) |
 | 5:00  PM    | Adjourn |
 
 | Time        | Topic                                          |
@@ -39,16 +37,16 @@ Minneapolis, MN 55414 in Room 105.
 | **Day 2**   | **2024-08-20 <br> Reproducible Research Practices <br> Intro to Bulk RNA-Seq**  |
 | 8:30 AM     | Breakfast and coffee available |
 | 9:00 AM     | Questions and review |
-| 9:30 AM     | Introduction to UNIX and the command line |
+| 9:30 AM     | Introduction to UNIX and the command line <br> [Intro to UNIX slides (PDF)](../slides/2024-08-20_intro-to-unix.pdf) |
 | 10:30 AM    | Coffee break |
 | 10:45 AM    | Introduction to Git / Forking and cloning <br> [Intro to Git slides (PDF)](../slides/2024-08-20_git-intro-fork-clone.pdf) |
-| 11:15 AM    | Shell scripting |
+| 11:15 AM    | Shell scripting <br> [Shell scripting slides (PDF)](../slides/2024-08-20_shell-scripting.pdf) |
 | 12:15 PM    | Lunch break |
-| 1:15 PM     | The Git stage/commit/push workflow |
+| 1:15 PM     | The Git stage/commit/push workflow <br> [Git stage/commit/push slides (PDF)](../slides/2024-08-20_git-stage-commit-push.pdf) |
 | 1:45 PM     | Organizing code in scripts and notebooks <br> [Organizing code slides (PDF)](../slides/2024-08-20_organizing-code.pdf) |
 | 2:30 PM     | Managing packages and environments <br> [Managing environments slides (PDF)](../slides/2024-08-20_managing-packages-environments.pdf) |
 | 3:00 PM     | Coffee break |
-| 3:15 PM     | Working with branches in Git |
+| 3:15 PM     | Working with branches in Git <br> [Working with branches in Git slides (PDF)](../slides/2024-08-20_git-branches.pdf) |
 | 3:45 PM     | Introduction to bulk RNA-Seq <br> [Introduction to bulk RNA-seq slides (PDF)](../slides/2024-08-20_intro-to-bulk-RNAseq.pdf) |
 | 4:15 PM     | Questions and consultation time |
 | 5:00 PM     | Adjourn |
@@ -65,7 +63,7 @@ Minneapolis, MN 55414 in Room 105.
 |             | Exercise: Neuroblastoma cell line tximeta |
 |             | Exercise: Exploratory data analysis |
 | 12:00 PM    | Lunch break |
-| 1:00 PM     | Set up Git on RStudio Server |
+| 1:00 PM     | Set up Git on RStudio Server <br> [Git setup slides (PDF)](../slides/2024-08-21_git-server-setup.pdf) |
 | 1:30 PM     | Differential expression analysis |
 | 2:45 PM     | Coffee break |
 | 3:00 PM     | Heatmaps and clustering |
