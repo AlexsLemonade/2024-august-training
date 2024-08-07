@@ -76,7 +76,7 @@ Minneapolis, MN 55414 in Room 105.
 | **Day 4**   | **2024-08-22 <br> Bulk RNA-Seq: Pathway Analysis <br> Participant Presentations** |
 | 8:30 AM     | Breakfast and coffee available |
 | 9:00 AM     | Questions and review |
-| 9:30 AM     | Introduction to pathway analysis |
+| 9:30 AM     | Introduction to pathway analysis <br> [Introduction to Pathway Analysis slides (PDF)](../slides/2024-08-22_intro-to-pathway-analysis.pdf) |
 | 10:00 AM    | Pathway analysis: Over-representation analysis |
 | 11:00 AM    | Coffee break |
 | 11:15 AM    | Pathway analysis: <br> Gene Set Enrichment Analysis <br> Gene Set Variation Analysis |
