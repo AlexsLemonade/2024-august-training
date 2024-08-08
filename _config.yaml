@@ -10,7 +10,7 @@ start_date: 2024-08-19
 end_date: 2024-08-22
 # Specific release in AlexsLemonade/training-modules
 # We use master to make development easier
-release_tag: master
+release_tag: 2024-august
 
 #### Workshop information ####
 workshop_type: "in-person"    # Update this value to either: "remote" or "in-person"
@@ -28,7 +28,7 @@ instructors:
 # The Docker user will almost always be ccdl, which is why this is here
 docker_user: ccdl
 docker_repo: training_rstudio
-docker_tag: edge
+docker_tag: 2024-august
 
 # Theme and theme options
 theme: minima
