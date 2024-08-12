@@ -60,7 +60,7 @@ Minneapolis, MN 55414 in Room 105.
 | 10:00 AM    | [RNA-Seq import with tximeta](../completed-notebooks/RNA-seq/02-gastric_cancer_tximeta.nb.html) |
 | 10:45 AM    | Coffee break |
 | 11:00 AM    | [RNA-Seq exploratory analysis](../completed-notebooks/RNA-seq/03-gastric_cancer_exploratory.nb.html) |
-|             | [Exercise: Neuroblastoma cell line tximeta](../completed-notebooks/RNA-seq/04-nb_cell_line_tximeta.nb.html) |
+|             | [Activity: Neuroblastoma cell line tximeta](../completed-notebooks/RNA-seq/04-nb_cell_line_tximeta.nb.html) |
 |             | [Exercise: Exploratory data analysis](https://github.com/AlexsLemonade/training-modules/blob/2024-august/RNA-seq/exercise_01-exploratory_data_analysis.Rmd) |
 | 12:00 PM    | Lunch break |
 | 1:00 PM     | Set up Git on RStudio Server <br> [Git setup slides (PDF)](../slides/2024-08-21_git-server-setup.pdf) |
@@ -79,7 +79,7 @@ Minneapolis, MN 55414 in Room 105.
 | 9:30 AM     | Introduction to pathway analysis <br> [Introduction to pathway analysis slides (PDF)](../slides/2024-08-22_intro-to-pathway-analysis.pdf) |
 | 10:00 AM    | [Over-representation analysis](../completed-notebooks/pathway-analysis/01-overrepresentation_analysis.nb.html) |
 | 11:00 AM    | Coffee break |
-| 11:15 AM    |  [Gene Set Enrichment Analysis (GSEA)](../completed-notebooks/pathway-analysis/02-gene_set_enrichment_analysis.nb.html) <br> [Gene Set Variation Analysis (GSVA)](../completed-notebooks/pathway-analysis/03-gene_set_variation_analysis.nb.html) |
+| 11:15 AM    | [Gene Set Enrichment Analysis (GSEA)](../completed-notebooks/pathway-analysis/02-gene_set_enrichment_analysis.nb.html) <br> [Gene Set Variation Analysis (GSVA)](../completed-notebooks/pathway-analysis/03-gene_set_variation_analysis.nb.html) |
 | 12:30 PM    | Lunch break |
 | 1:30 PM     | Questions and consultation time |
 |             | [Exercise: Over-representation analysis](https://github.com/AlexsLemonade/training-modules/blob/2024-august/pathway-analysis/exercise_01-ora.Rmd) |
