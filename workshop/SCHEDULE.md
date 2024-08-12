@@ -17,17 +17,17 @@ Minneapolis, MN 55414 in Room 105.
 | **Day 1**   | **2024-08-19 <br> Intro to R and the Tidyverse <br> Intro to Reproducible Research Practices**|
 | 8:30 AM     | Arrive and check-in <br> Breakfast and coffee available |
 | 9:00 AM     | Welcome, introductions and getting started |
-| 10:00 AM    | Introduction to R and RStudio <br> [Intro to R and RStudio slides (PDF)](../slides/2024-08-19_intro-to-r-rstudio.pdf) |
+| 10:00 AM    | [Introduction to R and RStudio](../completed-notebooks/intro-to-R-tidyverse/01-intro_to_base_R.nb.html) <br> [Intro to R and RStudio slides (PDF)](../slides/2024-08-19_intro-to-r-rstudio.pdf) |
 | 11:15 AM    | Coffee break |
-| 11:30 AM    | Introduction to `ggplot2` |
+| 11:30 AM    | [Introduction to `ggplot2`](../completed-notebooks/intro-to-R-tidyverse/02-intro_to_ggplot2.nb.html) |
 | 12:30 PM    | Lunch break |
-| 1:30 PM     | Introduction to the `tidyverse` |
+| 1:30 PM     | [Introduction to the `tidyverse`](../completed-notebooks/intro-to-R-tidyverse/03-intro_to_tidyverse.nb.html) |
 | 2:30 PM     | Coffee break |
 | 2:45 PM     | Questions and consultation time |
-|             | Exercise: Introduction to base R |
-|             | Exercise: Introduction to R |
-|             | Exercise: Introduction to the `tidyverse`, Part 1  |
-|             | Exercise: Introduction to the `tidyverse`, Part 2 |
+|             | [Exercise: Introduction to base R](https://github.com/AlexsLemonade/training-modules/blob/2024-august/intro-to-R-tidyverse/exercise_01-intro_to_base_R.Rmd) |
+|             | [Exercise: Introduction to R](https://github.com/AlexsLemonade/training-modules/blob/2024-august/intro-to-R-tidyverse/exercise_02-intro_to_R.Rmd) |
+|             | [Exercise: Introduction to the `tidyverse`, Part 1](https://github.com/AlexsLemonade/training-modules/blob/2024-august/intro-to-R-tidyverse/exercise_03a-intro_to_tidyverse.Rmd)  |
+|             | [Exercise: Introduction to the `tidyverse`, Part 2](https://github.com/AlexsLemonade/training-modules/blob/2024-august/intro-to-R-tidyverse/exercise_03b-intro_to_tidyverse.Rmd) |
 | 3:30  PM    | Introduction to reproducible research practices <br> [Intro to reproducible research practices slides (PDF)](../slides/2024-08-19_why-reproducibility.pdf) |
 | 4:00  PM    | Project organization <br> [Project organization slides (PDF)](../slides/2024-08-19_project-organization.pdf) |
 | 5:00  PM    | Adjourn |
