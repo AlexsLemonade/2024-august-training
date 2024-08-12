@@ -86,6 +86,7 @@ GRCh
 GRCm
 GRCz
 GSEA
+GSVA
 Haghverdi
 hange
 HCA
@@ -197,7 +198,7 @@ transcriptomic
 transphobic
 TSV
 Tung
-tximeta 
+tximeta
 ual
 Uber
 uncheck
