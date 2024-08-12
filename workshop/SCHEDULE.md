@@ -16,7 +16,7 @@ Minneapolis, MN 55414 in Room 105.
 |-------------|------------------------------------------------|
 | **Day 1**   | **2024-08-19 <br> Intro to R and the Tidyverse <br> Intro to Reproducible Research Practices**|
 | 8:30 AM     | Arrive and check-in <br> Breakfast and coffee available |
-| 9:00 AM     | Welcome, introductions and getting started |
+| 9:00 AM     | Welcome, introductions and getting started <br> [Workshop intro slides (PDF)](../slides/2024-08-19_workshop-intro.pdf) |
 | 10:00 AM    | [Introduction to R and RStudio](../completed-notebooks/intro-to-R-tidyverse/01-intro_to_base_R.nb.html) <br> [Intro to R and RStudio slides (PDF)](../slides/2024-08-19_intro-to-r-rstudio.pdf) |
 | 11:15 AM    | Coffee break |
 | 11:30 AM    | [Introduction to `ggplot2`](../completed-notebooks/intro-to-R-tidyverse/02-intro_to_ggplot2.nb.html) |
