@@ -47,7 +47,6 @@ Minneapolis, MN 55414 in Room 105.
 | 2:30 PM     | Managing packages and environments <br> [Managing environments slides (PDF)](../slides/2024-08-20_managing-packages-environments.pdf) |
 | 3:00 PM     | Coffee break |
 | 3:15 PM     | Working with branches in Git <br> [Working with branches in Git slides (PDF)](../slides/2024-08-20_git-branches.pdf) |
-| 3:45 PM     | Introduction to bulk RNA-Seq <br> [Introduction to bulk RNA-seq slides (PDF)](../slides/2024-08-20_intro-to-bulk-RNAseq.pdf) |
 | 4:15 PM     | Questions and consultation time |
 | 5:00 PM     | Adjourn |
 | 5:30 PM     | Group dinner at Surly Brewing Co. <br> 520 Malcolm Ave SE, Minneapolis, MN 55414 |
@@ -56,18 +55,18 @@ Minneapolis, MN 55414 in Room 105.
 |-------------|------------------------------------------------|
 | **Day 3**   | **2024-08-21 <br> Bulk RNA-Seq**  |
 | 8:30 AM     | Breakfast and coffee available |
-| 9:00 AM     | [RNA-Seq quantification (trim, filter, quant)](../completed-notebooks/RNA-seq/01-qc_trim_quant.nb.html) |
+| 9:00 AM     | Introduction to bulk RNA-Seq <br> [Introduction to bulk RNA-seq slides (PDF)](../slides/2024-08-20_intro-to-bulk-RNAseq.pdf) <br> [RNA-Seq quantification (trim, filter, quant)](../completed-notebooks/RNA-seq/01-qc_trim_quant.nb.html) |
 | 10:00 AM    | [RNA-Seq import with tximeta](../completed-notebooks/RNA-seq/02-gastric_cancer_tximeta.nb.html) |
 | 10:45 AM    | Coffee break |
 | 11:00 AM    | [RNA-Seq exploratory analysis](../completed-notebooks/RNA-seq/03-gastric_cancer_exploratory.nb.html) |
-|             | [Activity: Neuroblastoma cell line tximeta](../completed-notebooks/RNA-seq/04-nb_cell_line_tximeta.nb.html) |
-|             | [Exercise: Exploratory data analysis](https://github.com/AlexsLemonade/training-modules/blob/2024-august/RNA-seq/exercise_01-exploratory_data_analysis.Rmd) |
+|             | _Time permitting_ [Activity: Neuroblastoma cell line tximeta](../completed-notebooks/RNA-seq/04-nb_cell_line_tximeta.nb.html) |
 | 12:00 PM    | Lunch break |
 | 1:00 PM     | Set up Git on RStudio Server <br> [Git setup slides (PDF)](../slides/2024-08-21_git-server-setup.pdf) |
 | 1:30 PM     | [Differential expression analysis](../completed-notebooks/RNA-seq/05-nb_cell_line_DESeq2.nb.html) |
 | 2:45 PM     | Coffee break |
 | 3:00 PM     | [Heatmaps and clustering](../completed-notebooks/RNA-seq/06-openpbta_heatmap.nb.html) |
 | 4:00 PM     | Questions and consultation time |
+|             | [Exercise: Exploratory data analysis](https://github.com/AlexsLemonade/training-modules/blob/2024-august/RNA-seq/exercise_01-exploratory_data_analysis.Rmd) |
 |             | [Exercise: Bulk RNA-seq](https://github.com/AlexsLemonade/training-modules/blob/2024-august/RNA-seq/exercise_02-bulk_rnaseq.Rmd) |
 | 5:00 PM     | Adjourn |
 
