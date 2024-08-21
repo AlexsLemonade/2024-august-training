@@ -55,7 +55,7 @@ Minneapolis, MN 55414 in Room 105.
 |-------------|------------------------------------------------|
 | **Day 3**   | **2024-08-21 <br> Bulk RNA-Seq**  |
 | 8:30 AM     | Breakfast and coffee available |
-| 9:00 AM     | | Introduction to bulk RNA-Seq <br> [Introduction to bulk RNA-seq slides (PDF)](../slides/2024-08-20_intro-to-bulk-RNAseq.pdf) <br> [RNA-Seq quantification (trim, filter, quant)](../completed-notebooks/RNA-seq/01-qc_trim_quant.nb.html) |
+| 9:00 AM     | Introduction to bulk RNA-Seq <br> [Introduction to bulk RNA-seq slides (PDF)](../slides/2024-08-20_intro-to-bulk-RNAseq.pdf) <br> [RNA-Seq quantification (trim, filter, quant)](../completed-notebooks/RNA-seq/01-qc_trim_quant.nb.html) |
 | 10:00 AM    | [RNA-Seq import with tximeta](../completed-notebooks/RNA-seq/02-gastric_cancer_tximeta.nb.html) |
 | 10:45 AM    | Coffee break |
 | 11:00 AM    | [RNA-Seq exploratory analysis](../completed-notebooks/RNA-seq/03-gastric_cancer_exploratory.nb.html) |
