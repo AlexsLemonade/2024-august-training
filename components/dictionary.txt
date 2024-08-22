@@ -219,3 +219,4 @@ Zakeri
 zebrafish
 ZenHub
 Zenodo
+zsh
